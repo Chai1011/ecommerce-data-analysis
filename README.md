@@ -1,6 +1,3 @@
-# ecommerce-data-analysis
-Big Dataset Project 
-
 # E-Commerce Data Analysis
 
 ## Project Overview
